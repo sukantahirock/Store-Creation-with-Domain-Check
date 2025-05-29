@@ -77,7 +77,7 @@ Features
 - **Name:** Sukanta Nag Hirock  
 - **Email:** haridasnag01715511031@gmail.com  
 - **GitHub:** [github.com/sukantahirock](https://github.com/sukantahirock)  
-- **CV:** [cv.pdd)](./cv.pdf)
+- **CV:** [cv](./cv.pdf)
 
 ---
 ---

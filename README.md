@@ -64,10 +64,11 @@
 
 ---
 Features
-✅ Store registration with fields like store name, owner name, phone, email, password, and domain name
+✅ Store registration with fields like store name, email, and domain name
 ✅ Real-time domain availability check via API
 ✅ Product listing after successful store registration
 ✅ Responsive design for mobile and desktop
+✅ Details product design with API
 ---
 
 ---

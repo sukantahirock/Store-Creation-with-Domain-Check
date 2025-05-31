@@ -10,7 +10,7 @@
 
 ## 🚀 Live Demo
 
-👉 [Online store](https://store-creation-with-domain-check.vercel.app/)
+👉 [Online store](https://store-creation-with-domain-check-4kb7ngy0l.vercel.app/)
 
 ---
 
